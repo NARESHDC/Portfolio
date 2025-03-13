@@ -205,15 +205,15 @@ footer {
 
 ```
 ## OUTPUT
-![PORTFOLIO1](https://github.com/user-attachments/assets/e96a52a3-4afa-48d9-981d-69f2b90b4616)
-![PORTFOLIO2](https://github.com/user-attachments/assets/5441da3b-59ec-4fd1-a555-52c8e74f34b5)
-![PORTFOLIO3](https://github.com/user-attachments/assets/6adaf6d1-7e07-4717-b369-d3156ce08d8d)
-![PORTFOLIO4](https://github.com/user-attachments/assets/58591e9f-af4d-4491-a5f5-da6fe8c05fdd)
-![PORTFOLIO6](https://github.com/user-attachments/assets/31864c81-45af-469f-851a-5fedcf2e385a)
-![PORTFOLIO7](https://github.com/user-attachments/assets/66e474f9-4db9-4e6f-b6e7-b61efd436bcd)
-![PORTFOLIO8](https://github.com/user-attachments/assets/20b637d5-e85b-4c82-bd46-7a11cdd47dd7)
-![PORTFOLIO9](https://github.com/user-attachments/assets/702e1617-061f-445d-8247-51a9723894ac)
-![PORTFOLIO10](https://github.com/user-attachments/assets/09c34f62-8057-47e8-8b0a-0d6a3cfac92c)
+![por1](https://github.com/user-attachments/assets/f3688b0f-9293-435a-b8ce-2171f00098f5)
+![por2](https://github.com/user-attachments/assets/751c994d-15a2-44ac-86e8-a69efd28e063)
+![por4](https://github.com/user-attachments/assets/113ad8fd-c669-48dd-a6b2-e16842f714c6)
+![por5](https://github.com/user-attachments/assets/a9b2b975-dd1d-4fd6-b02a-81bc2923dfb7)
+![por6](https://github.com/user-attachments/assets/fe5537bd-3b6f-4b1e-9797-68cf635e71f0)
+![por7](https://github.com/user-attachments/assets/90005506-e51c-46cf-9975-7dfd347344e9)
+![por8](https://github.com/user-attachments/assets/5a4c7d03-5e18-435c-a480-99dc3f49efbf)
+![por9](https://github.com/user-attachments/assets/572eefbb-1228-4d0e-9efe-bd599391bbe3)
+
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
